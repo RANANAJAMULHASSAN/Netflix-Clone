@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm NAJAM UL HASSAN</h1>
+<a href="[https://dev.to/rana najam ul hassan](https://netflix-clone-najam.netlify.app/)" target="blank"><img align="center" 
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rananajamulhassan&label=Profile%20views&color=0e75b6&style=flat" alt="rananajamulhassan" /> </p>
