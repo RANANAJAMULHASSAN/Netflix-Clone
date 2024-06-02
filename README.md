@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm NAJAM UL HASSAN</h1>
 <h1 align="Preview My Website</h1> 
-
 # https://my-portfolio-clone-najam.netlify.app/
 <a href="[https://dev.to/rana najam ul hassan](https://netflix-clone-najam.netlify.app/)" target="blank"><img align="center" 
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
